@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/
+outbox/
+build/
+*.pdf
+.pytest_cache/
+resumes/*.*
+cover-letter/
+

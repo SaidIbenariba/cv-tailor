@@ -1,0 +1,62 @@
+<h2>Research Application Workflow</h2>
+<p class="subtitle">Agent-Orchestrated End-to-End Pipeline</p>
+
+<div class="mockup">
+  <div class="mockup-header">System Architecture & Data Flow</div>
+  <div class="mockup-body">
+    <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
+      <div class="section" style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; width: 80%; background: #f9f9f9;">
+        <h3 style="margin-top: 0;">Phase 1: Discovery & Filtering</h3>
+        <p><strong>Tool:</strong> <code>python -m jobhunt.cli discover</code></p>
+        <p><strong>Input:</strong> <code>preferences.yaml</code> (Keywords like "Research", "Scientific")</p>
+        <p><strong>Output:</strong> <code>data/jobs.xlsx</code> updated with NEW jobs.</p>
+      </div>
+
+      <div style="font-size: 24px;">↓</div>
+
+      <div class="section" style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; width: 80%; background: #f9f9f9;">
+        <h3 style="margin-top: 0;">Phase 2: Hybrid Scoring Gate</h3>
+        <p><strong>Threshold Check:</strong> <code>score >= threshold</code> (e.g., 35%)</p>
+        <div style="display: flex; gap: 20px; justify-content: center;">
+          <div style="background: #e8f5e9; padding: 10px; border-radius: 4px;"><strong>High Score:</strong> Auto-Tailor</div>
+          <div style="background: #fff3e0; padding: 10px; border-radius: 4px;"><strong>Low Score:</strong> Ask User to Skip/Discovery</div>
+        </div>
+      </div>
+
+      <div style="font-size: 24px;">↓</div>
+
+      <div class="section" style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; width: 80%; background: #f9f9f9;">
+        <h3 style="margin-top: 0;">Phase 3: Tailoring (LLM)</h3>
+        <p><strong>Skill:</strong> <code>resume-tailoring</code> (Tailors CV Content)</p>
+        <p><strong>NEW:</strong> Cover Letter Generator (Custom for Research context)</p>
+        <p><strong>Output:</strong> <code>outbox/</code> folder with (MD, DOCX, CV, CL)</p>
+      </div>
+
+      <div style="font-size: 24px;">↓</div>
+
+      <div class="section" style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; width: 80%; background: #f9f9f9;">
+        <h3 style="margin-top: 0;">Phase 4: Approval & Dispatch</h3>
+        <p><strong>Manual:</strong> You review the <code>outbox/</code> files.</p>
+        <p><strong>Command:</strong> <code>python -m jobhunt.cli send</code></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h3>Does this workflow capture everything?</h3>
+<div class="options">
+  <div class="option" data-choice="yes" onclick="toggleSelect(this)">
+    <div class="letter">A</div>
+    <div class="content">
+      <h3>Yes, looks perfect</h3>
+      <p>Proceed to detailed design</p>
+    </div>
+  </div>
+  <div class="option" data-choice="refine" onclick="toggleSelect(this)">
+    <div class="letter">B</div>
+    <div class="content">
+      <h3>Refine a section</h3>
+      <p>I want to change how something works</p>
+    </div>
+  </div>
+</div>

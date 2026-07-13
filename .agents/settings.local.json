@@ -1,0 +1,48 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m jobhunt.cli *)",
+      "Bash(pytest *)",
+      "Bash(pdflatex *)",
+      "Bash(ls *)",
+      "Bash(mkdir *)",
+      "Bash(cp *)",
+      "Bash(mv *)",
+      "Bash(rm -rf .superpowers/*)",
+      "Bash(notebooklm list *)",
+      "Bash(notebooklm status *)",
+      "Bash(notebooklm use *)",
+      "Bash(notebooklm source *)",
+      "Bash(notebooklm ask *)",
+      "Bash(*)",
+      "Python(*)",
+      "WebSearch",
+      "WebFetch",
+      "Edit",
+      "Write",
+      "Skill(superpowers:*)",
+      "Skill(resume-tailoring)",
+      "Skill(research-app-workflow)",
+      "Skill(figma:*)",
+      "mcp__plugin_figma_figma__*",
+      "Skill(impeccable)"
+    ],
+    "deny": [
+      "Bash(notebooklm delete *)",
+      "Bash(del *)",
+      "Bash(rm *)",
+      "Bash(uninstall *)",
+      "Bash(rd *)",
+      "Bash(rmdir *)",
+      "Bash(unlink *)",
+      "Bash(sudo *)",
+      "Bash(git push --force *)",
+      "Bash(git reset --hard *)",
+      "Bash(git clean *)"
+    ],
+    "ask": [
+      "Bash(git push *)",
+      "Bash(rm *)"
+    ]
+  }
+}

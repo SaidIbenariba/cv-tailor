@@ -1,0 +1,131 @@
+# Job search preferences. Edit freely; the pipeline reads this on every run.
+
+# Search terms passed to each job board (one scrape per term).
+search_terms:
+  - "Data Scientist"
+  - "Machine Learning Engineer"
+  - "AI Engineer"
+  - "AI Research Lab"
+  - "Machine Learning Lab"
+  - "AI Company"
+
+# Country for Indeed (REQUIRED by JobSpy; without it Indeed defaults to USA).
+# Use the country name, e.g. "Morocco", "France", "Worldwide".
+country:
+  - "france"
+  - "germany"
+  - "netherlands"
+  - "belgium"
+  - "spain"
+  - "italy"
+  - "portugal"
+  - "sweden"
+  - "norway"
+  - "denmark"
+  - "finland"
+  - "switzerland"
+  - "austria"
+  - "poland"
+  - "czech republic"
+  - "ireland"
+  - "luxembourg"
+  - "united kingdom"
+  - "united states"
+  - "morocco"
+
+# Locations to search. Use site-friendly names. "Remote" handled by `remote`.
+locations:
+  - "United States"
+  - "France"
+  - "Netherlands"
+  - "Germany"
+  - "Belgium"
+  - "Spain"
+  - "Sweden"
+  - "Switzerland"
+  - "Morocco"
+  - "Remote"
+
+# Job boards to query (subset of: indeed, linkedin, google, glassdoor, zip_recruiter).
+boards:
+  - indeed
+  - linkedin
+
+# Only keep remote jobs? true = remote only, false = any.
+remote_only: false
+
+# Results requested per (board, term). Keep modest to avoid rate limits.
+results_per_term: 10
+
+# Hours back to search (JobSpy `hours_old`). null = no limit.
+hours_old: 72
+
+# Hard salary floor (annual, in the listing's currency). null = no filter.
+salary_min: null
+
+# A job is rejected outright if its title/description contains any of these.
+exclude_keywords:
+  - "clearance required"
+  - "unpaid"
+  - "PhD required"
+
+# A job must contain at least one of these (in title or description) to survive
+# the hard filter. Leave empty to disable this gate.
+include_keywords:
+  - "data"
+  - "machine learning"
+  - "ML"
+  - "AI"
+  - "NLP"
+  - "deep learning"
+  - "lab"
+  - "research"
+
+# Minimum match score (0-100, keyword overlap with the CV) to draft an email.
+score_threshold: 35
+
+# Used when a job has no contact email but you still want a draft prepared.
+# Leave null to mark such jobs NEEDS_MANUAL instead of drafting.
+fallback_recipient: null
+
+# Path to the master CV LaTeX source (compiled to PDF and attached).
+cv_tex_path: "cv_said_ibenariba.tex"
+
+# Curated skills used for scoring (matched as whole words against each job).
+# Drawn from the CV's Technical Skills section. Edit to tune ranking quality.
+# Matching SATURATION (6) of these in a posting = a perfect 100 score.
+cv_skills:
+  - "python"
+  - "pytorch"
+  - "tensorflow"
+  - "scikit-learn"
+  - "hugging face"
+  - "sql"
+  - "nlp"
+  - "deep learning"
+  - "machine learning"
+  - "computer vision"
+  - "llm"
+  - "langchain"
+  - "sentence transformers"
+  - "pyspark"
+  - "hadoop"
+  - "kafka"
+  - "docker"
+  - "fastapi"
+  - "flask"
+  - "postgresql"
+  - "pgvector"
+  - "pandas"
+  - "numpy"
+  - "power bi"
+  - "rest api"
+  - "ollama"
+  - "vllm"
+  - "mistral"
+  - "qwen"
+  - "data scientist"
+  - "ai engineer"
+  - "machine learning engineer"
+  - "research scientist"
+  - "research engineer"
