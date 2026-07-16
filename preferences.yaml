@@ -5,9 +5,11 @@ search_terms:
   - "Data Scientist"
   - "Machine Learning Engineer"
   - "AI Engineer"
+  - "LLM Engineer" 
+  - "MLops Engineer"
   - "AI Research Lab"
   - "Machine Learning Lab"
-  - "AI Company"
+  - "AI Company" 
 
 # Country for Indeed (REQUIRED by JobSpy; without it Indeed defaults to USA).
 # Use the country name, e.g. "Morocco", "France", "Worldwide".
@@ -30,12 +32,10 @@ country:
   - "ireland"
   - "luxembourg"
   - "united kingdom"
-  - "united states"
   - "morocco"
 
 # Locations to search. Use site-friendly names. "Remote" handled by `remote`.
 locations:
-  - "United States"
   - "France"
   - "Netherlands"
   - "Germany"
@@ -65,6 +65,9 @@ salary_min: null
 
 # A job is rejected outright if its title/description contains any of these.
 exclude_keywords:
+  - "US citizen"
+  - "security clearance"
+  - "TS/SCI"
   - "clearance required"
   - "unpaid"
   - "PhD required"
@@ -89,7 +92,7 @@ score_threshold: 35
 fallback_recipient: null
 
 # Path to the master CV LaTeX source (compiled to PDF and attached).
-cv_tex_path: "cv_said_ibenariba.tex"
+cv_tex_path: "resumes/_template_awesome-cv.tex"
 
 # Curated skills used for scoring (matched as whole words against each job).
 # Drawn from the CV's Technical Skills section. Edit to tune ranking quality.

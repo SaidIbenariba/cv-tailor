@@ -1,0 +1,344 @@
+2026-07-15 13:13:10,151 [INFO] pipeline_runner: --- Starting Job Hunt Pipeline Run ---
+2026-07-15 13:13:10,155 [INFO] pipeline_runner: Loaded 0 historical postings.
+2026-07-15 13:19:53,904 [WARNING] jobhunt.discover: board indeed term 'MLops Engineer' failed: HTTPSConnectionPool(host='apis.indeed.com', port=443): Read timed out. (read timeout=10)
+2026-07-15 13:25:53,709 [WARNING] jobhunt.discover: board linkedin term 'AI Company' failed: Invalid country string: 'sri lanka'. Valid countries are: argentina, australia, austria, bahrain, bangladesh, belgium, bulgaria, brazil, canada, chile, china, colombia, costa rica, croatia, cyprus, czech republic,czechia, denmark, ecuador, egypt, estonia, finland, france, germany, greece, hong kong, hungary, india, indonesia, ireland, israel, italy, japan, kuwait, latvia, lithuania, luxembourg, malaysia, malta, mexico, morocco, netherlands, new zealand, nigeria, norway, oman, pakistan, panama, peru, philippines, poland, portugal, qatar, romania, saudi arabia, singapore, slovakia, slovenia, south africa, south korea, spain, sweden, switzerland, taiwan, thailand, türkiye,turkey, ukraine, united arab emirates, uk,united kingdom, usa,us,united states, uruguay, venezuela, vietnam, usa/ca, worldwide
+2026-07-15 13:25:53,710 [INFO] jobhunt.discover: discovered 807 unique jobs
+2026-07-15 13:25:53,710 [INFO] pipeline_runner: Scraped 807 listings. Found 807 brand new postings.
+2026-07-15 13:25:53,724 [INFO] jobhunt.cv: Tailoring CV for: Data scientist IA GEN at DATAMED RESEARCH
+2026-07-15 13:25:53,724 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,729 [INFO] jobhunt.cv: Tailoring CV for: 286 - Data Analyst (Junior / Confirmé) (IT) / Freelance at Nicholson SAS
+2026-07-15 13:25:53,729 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,737 [INFO] jobhunt.cv: Tailoring CV for: Data analyst H/F/NB at Keyrus France
+2026-07-15 13:25:53,738 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,752 [INFO] jobhunt.cv: Tailoring CV for: Alternance - Chargé(e) de projet IA (Data Science, Deep Learning) (H/F/X) at Amplifon
+2026-07-15 13:25:53,753 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,757 [INFO] jobhunt.cv: Tailoring CV for: Software Engineer - Westerdijk Fungal Biodiversity Institute - Utrecht Software Engineer - Westerdij at Koninklijke Nederlandse Akademie van Wetenschappen
+2026-07-15 13:25:53,758 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,765 [INFO] jobhunt.cv: Tailoring CV for: Software Engineer - Westerdijk Fungal Biodiversity Institute - Utrecht at Koninklijke Nederlandse Akademie van Wetenschappen
+2026-07-15 13:25:53,765 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,773 [INFO] jobhunt.cv: Tailoring CV for: Data Scientist at KAIZO
+2026-07-15 13:25:53,773 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,789 [INFO] jobhunt.cv: Tailoring CV for: Junior Data Scientist at Sunweb Group
+2026-07-15 13:25:53,789 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,799 [INFO] jobhunt.cv: Tailoring CV for: Data Scientist Kruidvat at AS Watson Group
+2026-07-15 13:25:53,799 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,803 [INFO] jobhunt.cv: Tailoring CV for: Senior Data Scientist - (Global Search, Consumer) at Delivery Hero
+2026-07-15 13:25:53,803 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,807 [INFO] jobhunt.cv: Tailoring CV for: Senior Data Scientist (m/w/d) at H. Gautzsch Zentrale Dienste
+2026-07-15 13:25:53,807 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,811 [INFO] jobhunt.cv: Tailoring CV for: Staff Data Scientist, Dmarts - Quick Commerce at Delivery Hero
+2026-07-15 13:25:53,811 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,817 [INFO] jobhunt.cv: Tailoring CV for: (Senior) Data Scientist / AI Expert (m/w/d) at ARAG Group
+2026-07-15 13:25:53,817 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,819 [INFO] jobhunt.cv: Tailoring CV for: Data Scientist at JD.com
+2026-07-15 13:25:53,819 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,821 [INFO] jobhunt.cv: Tailoring CV for: Data Scientist at JD.com
+2026-07-15 13:25:53,821 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,826 [INFO] jobhunt.cv: Tailoring CV for: Principal Data Scientist (m/f/d) at A11
+2026-07-15 13:25:53,826 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,829 [INFO] jobhunt.cv: Tailoring CV for: Data Analyst at DP World
+2026-07-15 13:25:53,829 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,836 [INFO] pipeline_runner: Skipping Data Scientist for AI Opportunities & Solutions Cell at Spektrum - Rejected: matched exclude keyword: security clearance
+2026-07-15 13:25:53,836 [INFO] pipeline_runner: Skipping Data Scientist at Spektrum - Rejected: matched exclude keyword: security clearance
+2026-07-15 13:25:53,849 [INFO] pipeline_runner: Skipping Senior AI Platform Engineer at AstraZeneca - Rejected: matched exclude keyword: unpaid
+2026-07-15 13:25:53,849 [INFO] pipeline_runner: Skipping Business Account Specialist - Canarias at AstraZeneca - Rejected: matched exclude keyword: unpaid
+2026-07-15 13:25:53,852 [INFO] pipeline_runner: Skipping Regulatory Affairs Director at AstraZeneca - Rejected: matched exclude keyword: unpaid
+2026-07-15 13:25:53,858 [INFO] jobhunt.cv: Tailoring CV for: Analista Programador IA, BI, Madrid at Incoming Domain
+2026-07-15 13:25:53,858 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,863 [INFO] jobhunt.cv: Tailoring CV for: Senior Optimization Data Scientist at RPS Soft
+2026-07-15 13:25:53,863 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,865 [INFO] jobhunt.cv: Tailoring CV for: Senior Data Scientist at Tibber
+2026-07-15 13:25:53,866 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,868 [INFO] jobhunt.cv: Tailoring CV for: Systemutvecklare med fokus Python at Svenska Kraftnät
+2026-07-15 13:25:53,868 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,910 [INFO] jobhunt.cv: Tailoring CV for: Data Scientist at ELAVI AGENCY
+2026-07-15 13:25:53,911 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,914 [INFO] jobhunt.cv: Tailoring CV for: Data / Machine Learning Lead at Matys
+2026-07-15 13:25:53,914 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,917 [INFO] jobhunt.cv: Tailoring CV for: AI & Analytics - AI Architect - Freelance - Casablanca at Infomineo
+2026-07-15 13:25:53,917 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,939 [INFO] jobhunt.cv: Tailoring CV for: AI Engineer - FDE (Forward Deployed Engineer) at Databricks
+2026-07-15 13:25:53,939 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,941 [INFO] jobhunt.cv: Tailoring CV for: AI Engineer - FDE (Forward Deployed Engineer) at Databricks
+2026-07-15 13:25:53,941 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,950 [INFO] jobhunt.cv: Tailoring CV for: Consultant IA / AI Solutions Engineer – IA Générative | Lyon at UCASE CONSULTING
+2026-07-15 13:25:53,950 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,966 [INFO] jobhunt.cv: Tailoring CV for: Lead Support Technique F/H at PACK SOLUTIONS
+2026-07-15 13:25:53,966 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,967 [INFO] jobhunt.cv: Tailoring CV for: Machine Learning Engineer at Zympler
+2026-07-15 13:25:53,968 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,972 [INFO] jobhunt.cv: Tailoring CV for: Applied Data Scientist - Intelligent Document Processing at ABN AMRO
+2026-07-15 13:25:53,972 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,974 [INFO] jobhunt.cv: Tailoring CV for: Data Scientist at JD.com
+2026-07-15 13:25:53,974 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,976 [INFO] jobhunt.cv: Tailoring CV for: Data Scientist at JD.com
+2026-07-15 13:25:53,977 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,980 [INFO] jobhunt.cv: Tailoring CV for: Machine Learning Engineer - Fulfillment at JD.com
+2026-07-15 13:25:53,980 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,982 [INFO] jobhunt.cv: Tailoring CV for: Machine Learning Engineer - Fulfillment at JD.com
+2026-07-15 13:25:53,982 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,985 [INFO] jobhunt.cv: Tailoring CV for: Machine Learning Engineer - Recommendation at JD.com
+2026-07-15 13:25:53,985 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,988 [INFO] jobhunt.cv: Tailoring CV for: Machine Learning Engineer - Recommendation at JD.com
+2026-07-15 13:25:53,988 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,992 [INFO] jobhunt.cv: Tailoring CV for: Vacature: Lead Machine Learning Engineer - View vacancy at NN GROUP
+2026-07-15 13:25:53,992 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:53,996 [INFO] jobhunt.cv: Tailoring CV for: (Junior) AI Engineer (m/f/d) at ZDF Sparks GmbH
+2026-07-15 13:25:53,996 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,000 [INFO] jobhunt.cv: Tailoring CV for: Data Engineer, Paintshop (m/w/d) - Gigafactory Berlin-Brandenburg at Tesla
+2026-07-15 13:25:54,000 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,003 [INFO] jobhunt.cv: Tailoring CV for: Senior Machine Learning Engineer (m/f/*) at Peregrine Technologies GmbH
+2026-07-15 13:25:54,003 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,005 [INFO] jobhunt.cv: Tailoring CV for: Machine Learning Consultant (f/m/d) at FRAMEN GmbH
+2026-07-15 13:25:54,005 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,025 [INFO] jobhunt.cv: Tailoring CV for: PreSales Consultant Cybersecurity – Benelux (H/F) at Olivier Mery
+2026-07-15 13:25:54,025 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,025 [INFO] pipeline_runner: Skipping 3917 Cloud Ops Senior Engineer at Contact One Communications, Inc. - Rejected: matched exclude keyword: security clearance
+2026-07-15 13:25:54,025 [INFO] pipeline_runner: Skipping Senior Penetration Tester/Red Team Operator at NTT DATA - Rejected: matched exclude keyword: security clearance
+2026-07-15 13:25:54,033 [INFO] jobhunt.cv: Tailoring CV for: Data Engineer Python at Sopra Steria
+2026-07-15 13:25:54,033 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,035 [INFO] jobhunt.cv: Tailoring CV for: Data Engineer Python at Sopra Steria
+2026-07-15 13:25:54,035 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,039 [INFO] pipeline_runner: Skipping Senior AI Operations Engineer at AstraZeneca - Rejected: matched exclude keyword: unpaid
+2026-07-15 13:25:54,041 [INFO] jobhunt.cv: Tailoring CV for: Data Engineer (m/f/d) at Schwarz Corporate Solutions
+2026-07-15 13:25:54,041 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,045 [INFO] jobhunt.cv: Tailoring CV for: Data Scientist at HappyRobot
+2026-07-15 13:25:54,045 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,047 [INFO] jobhunt.cv: Tailoring CV for: Data Engineer (m/f/d) at Schwarz Digits KG
+2026-07-15 13:25:54,047 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,063 [INFO] jobhunt.cv: Tailoring CV for: Fullstackutvecklare till team inom Ekonomi och uppföljning! at Västra Götalandsregionen
+2026-07-15 13:25:54,063 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,065 [INFO] jobhunt.cv: Tailoring CV for: Senior Full-Stack Engineer (.Net/React) - AI services (HealthTech) at Opinov8
+2026-07-15 13:25:54,065 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,065 [INFO] pipeline_runner: Skipping Transformation Office Manager ﻿ at Saab - Rejected: matched exclude keyword: security clearance
+2026-07-15 13:25:54,065 [INFO] pipeline_runner: Skipping BI & Digital Tools Manager ﻿ at Saab - Rejected: matched exclude keyword: security clearance
+2026-07-15 13:25:54,070 [INFO] jobhunt.cv: Tailoring CV for: Development Engineer: Applied AI/ML and Intelligent systems at VAT ​Vakuumventile
+2026-07-15 13:25:54,070 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,073 [INFO] jobhunt.cv: Tailoring CV for: Senior Data Engineer (Python & AI) at ETOPS
+2026-07-15 13:25:54,073 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,097 [INFO] jobhunt.cv: Tailoring CV for: Data Engineer at Craon srl
+2026-07-15 13:25:54,098 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,100 [INFO] jobhunt.cv: Tailoring CV for: Principal AI/ML Architect at TensorOps
+2026-07-15 13:25:54,100 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,101 [INFO] jobhunt.cv: Tailoring CV for: AI Engineer at Sourcing Trust, LDA
+2026-07-15 13:25:54,101 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,113 [INFO] jobhunt.cv: Tailoring CV for: Senior Data Engineer (with AI/ML experience) at N-iX
+2026-07-15 13:25:54,113 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,116 [INFO] jobhunt.cv: Tailoring CV for: Data Science Manager (Credit) at Moniepoint
+2026-07-15 13:25:54,116 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,120 [INFO] jobhunt.cv: Tailoring CV for: Applied AI Engineer -Poland(Remote) at DoiT
+2026-07-15 13:25:54,120 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,122 [INFO] jobhunt.cv: Tailoring CV for: Senior DevOps / Site Reliability Engineer at N-iX
+2026-07-15 13:25:54,122 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,151 [INFO] jobhunt.cv: Tailoring CV for: DevOps Engineer at Leidos
+2026-07-15 13:25:54,151 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,183 [INFO] jobhunt.cv: Tailoring CV for: AI engineer (H/F/NB) at Keyrus France
+2026-07-15 13:25:54,183 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,191 [INFO] jobhunt.cv: Tailoring CV for: Ingénieur de recherche H/F: conception et implémentation d'algorithmes de flow matching et diffusion pour la génération de protéines at Inria
+2026-07-15 13:25:54,191 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,193 [INFO] jobhunt.cv: Tailoring CV for: AI Lead Engineer at Licorne Society
+2026-07-15 13:25:54,193 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,196 [INFO] jobhunt.cv: Tailoring CV for: AI Engineer Débutant en CDI - F/H at EY
+2026-07-15 13:25:54,196 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,233 [INFO] jobhunt.cv: Tailoring CV for: Senior AI Engineer at DL Remote
+2026-07-15 13:25:54,233 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,235 [INFO] jobhunt.cv: Tailoring CV for: Senior AI Engineer at DL Remote
+2026-07-15 13:25:54,235 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,271 [INFO] jobhunt.cv: Tailoring CV for: AI & AUTOMATION ENGINEER (LIEGE-BELGIUM) at GAMING1
+2026-07-15 13:25:54,271 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,301 [INFO] jobhunt.cv: Tailoring CV for: Senior DevOps / Site Reliability Engineer at N-iX
+2026-07-15 13:25:54,301 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,303 [INFO] jobhunt.cv: Tailoring CV for: Senior Full Stack AI Engineer/LLM - Pharma Industry at ERNI Spain
+2026-07-15 13:25:54,303 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,336 [INFO] jobhunt.cv: Tailoring CV for: ML Research Engineer (Detect & Track Distillation) at Harmattan AI
+2026-07-15 13:25:54,336 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,358 [INFO] jobhunt.cv: Tailoring CV for: AI Tech Delivery Specialist (CoE) at Hypatos GmbH
+2026-07-15 13:25:54,358 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,365 [INFO] jobhunt.cv: Tailoring CV for: AI Engineer at Deluxe Media
+2026-07-15 13:25:54,365 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,387 [INFO] jobhunt.cv: Tailoring CV for: Principal Software Engineer, GO & Rust (Engine) at Workato
+2026-07-15 13:25:54,387 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,390 [INFO] jobhunt.cv: Tailoring CV for: Senior Software Engineer (Ruby / GOlang) at Workato
+2026-07-15 13:25:54,390 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,394 [INFO] jobhunt.cv: Tailoring CV for: Principal Software Engineer, GO & Rust (Engine) at Workato
+2026-07-15 13:25:54,394 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,397 [INFO] jobhunt.cv: Tailoring CV for: Staff Software Engineer (Ruby or GOlang) at Workato
+2026-07-15 13:25:54,397 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,412 [INFO] jobhunt.cv: Tailoring CV for: Senior DevOps / Site Reliability Engineer at N-iX
+2026-07-15 13:25:54,412 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,431 [INFO] jobhunt.cv: Tailoring CV for: AI Engineer at ALGOMINE Group Sp. z o.o.
+2026-07-15 13:25:54,431 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,446 [INFO] jobhunt.cv: Tailoring CV for: Remote AI Engineer - Agents (m/f/d) at RoomPriceGenie
+2026-07-15 13:25:54,446 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,450 [INFO] jobhunt.cv: Tailoring CV for: Remote AI Engineer - Knowledge (m/f/d) at RoomPriceGenie
+2026-07-15 13:25:54,450 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,468 [INFO] jobhunt.cv: Tailoring CV for: Tech Lead AI F/H/ NB at Keyrus France
+2026-07-15 13:25:54,468 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,472 [INFO] jobhunt.cv: Tailoring CV for: Fondations Architect (H/F/NB) at Keyrus France
+2026-07-15 13:25:54,472 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,475 [INFO] jobhunt.cv: Tailoring CV for: Data Engineer at Licorne Society
+2026-07-15 13:25:54,475 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,477 [INFO] jobhunt.cv: Tailoring CV for: Consultant Data Scientist/AI Engineer at Licorne Society
+2026-07-15 13:25:54,477 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,485 [INFO] jobhunt.cv: Tailoring CV for: Senior Software Engineer at CybelAngel
+2026-07-15 13:25:54,485 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,489 [INFO] jobhunt.cv: Tailoring CV for: Remote AI Engineer - Agents (m/f/d) at RoomPriceGenie
+2026-07-15 13:25:54,489 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,493 [INFO] jobhunt.cv: Tailoring CV for: Core Systems Engineer (f/m/d) - Hybrid at X-Cago B.V.
+2026-07-15 13:25:54,493 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,497 [INFO] jobhunt.cv: Tailoring CV for: AI engineer at Winparts
+2026-07-15 13:25:54,497 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,502 [INFO] jobhunt.cv: Tailoring CV for: AI Engineer Intern, GigaAcademy Kosovo Program at Genpact
+2026-07-15 13:25:54,502 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,506 [INFO] jobhunt.cv: Tailoring CV for: Data Engineer, GigaAcademy Kosovo Program at Genpact
+2026-07-15 13:25:54,506 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,509 [INFO] jobhunt.cv: Tailoring CV for: Software Engineer — Agentic AI Systems (m/w/d) at Newroom Media GmbH
+2026-07-15 13:25:54,509 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,516 [INFO] jobhunt.cv: Tailoring CV for: (Senior) AI Engineer (m/w/d) at cbs Corporate Business Solutions
+2026-07-15 13:25:54,516 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,519 [INFO] jobhunt.cv: Tailoring CV for: (Senior) AI Engineer (m/w/d) at cbs Corporate Business Solutions
+2026-07-15 13:25:54,519 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,521 [INFO] jobhunt.cv: Tailoring CV for: AI Engineer (m/w/d) - Startup at 
+2026-07-15 13:25:54,521 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,523 [INFO] jobhunt.cv: Tailoring CV for: AI & AUTOMATION ENGINEER at GAMING1
+2026-07-15 13:25:54,523 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,531 [INFO] jobhunt.cv: Tailoring CV for: AI Systems Engineer at Sagacify
+2026-07-15 13:25:54,531 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,534 [INFO] jobhunt.cv: Tailoring CV for: Senior Full Stack AI Engineer/LLM - Pharma Industry at ERNI Schweiz AG
+2026-07-15 13:25:54,534 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,537 [INFO] jobhunt.cv: Tailoring CV for: Remote AI Engineer - Agents (m/f/d) at RoomPriceGenie
+2026-07-15 13:25:54,537 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,546 [INFO] jobhunt.cv: Tailoring CV for: Senior Fullstack AI Engineer | LLM, RAG, GraphRAG & AI Agents at knowmad mood
+2026-07-15 13:25:54,546 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,549 [INFO] jobhunt.cv: Tailoring CV for: Senior GEN-AI Engineer (Data & Platform) - EU at 
+2026-07-15 13:25:54,549 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,555 [INFO] jobhunt.cv: Tailoring CV for: Senior AI and Data Engineer at Publicis Groupe
+2026-07-15 13:25:54,555 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,557 [INFO] jobhunt.cv: Tailoring CV for: Junior Data & AI Engineer at Alpian SA
+2026-07-15 13:25:54,557 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,578 [INFO] jobhunt.cv: Tailoring CV for: Consultant Tech Data/IA - F/H at niji
+2026-07-15 13:25:54,578 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,581 [INFO] jobhunt.cv: Tailoring CV for: Data engineer F/H at DEEP FRANCE
+2026-07-15 13:25:54,581 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,584 [INFO] jobhunt.cv: Tailoring CV for: Lead Tech Data/IA F/H at DEEP FRANCE
+2026-07-15 13:25:54,584 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,586 [INFO] jobhunt.cv: Tailoring CV for: Tech Lead AI/ML (F/H/X) at Publicis Groupe
+2026-07-15 13:25:54,586 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,589 [INFO] jobhunt.cv: Tailoring CV for: Manager Data Science & Intelligence Artificielle (F/H/X) at Publicis Groupe
+2026-07-15 13:25:54,589 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,598 [INFO] jobhunt.cv: Tailoring CV for: AI Solution Architect (m/w/d) at virtual7 GmbH
+2026-07-15 13:25:54,598 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,600 [INFO] jobhunt.cv: Tailoring CV for: AI Solution Architect (m/w/d) at virtual7 GmbH
+2026-07-15 13:25:54,600 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,603 [INFO] jobhunt.cv: Tailoring CV for: AI Solution Architect (m/w/d) at virtual7 GmbH
+2026-07-15 13:25:54,603 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,606 [INFO] jobhunt.cv: Tailoring CV for: AI Solution Architect (m/w/d) at virtual7 GmbH
+2026-07-15 13:25:54,606 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,608 [INFO] jobhunt.cv: Tailoring CV for: AI Solution Architect (m/w/d) at virtual7 GmbH
+2026-07-15 13:25:54,608 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,620 [INFO] jobhunt.cv: Tailoring CV for: Senior AI Engineer – Data Intelligence & Generative AI at TÜV AUSTRIA Belgium
+2026-07-15 13:25:54,620 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,631 [INFO] jobhunt.cv: Tailoring CV for: Senior AI/ML Engineer at EcoVadis
+2026-07-15 13:25:54,631 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,646 [INFO] jobhunt.cv: Tailoring CV for: Systèmes énergétiques industriels intelligents : diagnostic harmonique par IA et conception de filtres hybrides adaptatifs pour les applications industrielles BT at 
+2026-07-15 13:25:54,646 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,648 [INFO] jobhunt.cv: Tailoring CV for: Research Scientist, Omni-lingual (FAIR) at Meta
+2026-07-15 13:25:54,648 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,674 [INFO] jobhunt.cv: Tailoring CV for: Intern Computer Vision and Automation in Microscopy (f/m/x) at ZEISS Group
+2026-07-15 13:25:54,674 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,676 [INFO] jobhunt.cv: Tailoring CV for: Internship - EEG & fNIRS Data Acquisition and (Pre-)Processing at ZEISS Group
+2026-07-15 13:25:54,676 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,739 [INFO] jobhunt.cv: Tailoring CV for: Analyst Treasury Technology & Operations at eBay
+2026-07-15 13:25:54,739 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,762 [INFO] jobhunt.cv: Tailoring CV for: Working Student Automations/AI (f/m/d) at NILO
+2026-07-15 13:25:54,762 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,769 [INFO] pipeline_runner: Skipping (Senior) Corporate Office Portfolio Manager (all genders) at MOIA GmbH - Rejected: matched exclude keyword: unpaid
+2026-07-15 13:25:54,769 [INFO] pipeline_runner: Skipping (Senior) Corporate Office Portfolio Manager (all genders) at MOIA GmbH - Rejected: matched exclude keyword: unpaid
+2026-07-15 13:25:54,769 [INFO] pipeline_runner: Skipping (Senior) Corporate Office Portfolio Manager (all genders) at MOIA GmbH - Rejected: matched exclude keyword: unpaid
+2026-07-15 13:25:54,836 [INFO] pipeline_runner: Skipping Financial Planning Lead (f/m/d) at Hitachi Rail - Rejected: matched exclude keyword: unpaid
+2026-07-15 13:25:54,891 [INFO] jobhunt.cv: Tailoring CV for: Data intern at Cyberette
+2026-07-15 13:25:54,892 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,942 [INFO] pipeline_runner: Skipping Data Engineer at Leidos - Rejected: matched exclude keyword: security clearance
+2026-07-15 13:25:54,950 [INFO] jobhunt.cv: Tailoring CV for: Data Scientist / Machine learning Engineer (w/m/d) at HENSOLDT
+2026-07-15 13:25:54,950 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,950 [INFO] pipeline_runner: Skipping Artificial Intelligence Engineer at Vivid Resourcing - Rejected: no include keyword present
+2026-07-15 13:25:54,954 [INFO] pipeline_runner: Skipping Insight Analyst at Foundever - Rejected: no include keyword present
+2026-07-15 13:25:54,956 [INFO] pipeline_runner: Skipping Artificial Intelligence Engineer at Goodindustry. - Rejected: no include keyword present
+2026-07-15 13:25:54,959 [INFO] pipeline_runner: Skipping Software Engineer - Graduate - Sweden at Cisco - Rejected: no include keyword present
+2026-07-15 13:25:54,959 [INFO] pipeline_runner: Skipping Tech Innovation - Sr. R&D Software Engineer - Casablanca at Infomineo - Rejected: no include keyword present
+2026-07-15 13:25:54,959 [INFO] pipeline_runner: Skipping INGENIEUR IA GENERATIVE & AGENTS IA at RED TIC - Rejected: no include keyword present
+2026-07-15 13:25:54,961 [INFO] pipeline_runner: Skipping Ingénieur IA (H/F) at Klanik - Rejected: no include keyword present
+2026-07-15 13:25:54,961 [INFO] pipeline_runner: Skipping Artificial Intelligence Engineer at MACEE - Rejected: no include keyword present
+2026-07-15 13:25:54,962 [INFO] jobhunt.cv: Tailoring CV for: Machine Learning Engineer (Python & Databricks) - 10852991 at ITproposal
+2026-07-15 13:25:54,962 [WARNING] jobhunt.cv: Template cv_said_ibenariba.tex missing, cannot tailor CV.
+2026-07-15 13:25:54,962 [INFO] pipeline_runner: Skipping Artificial Intelligence Engineer at Vivid Resourcing - Rejected: no include keyword present
+2026-07-15 13:25:54,962 [INFO] pipeline_runner: Skipping Ingeniero de Inteligencia Artificial at QUANTIA Ingeniería y Consultoría - Rejected: no include keyword present
+2026-07-15 13:25:54,963 [INFO] pipeline_runner: Skipping Artificial Intelligence Engineer at LK Group (Melbourne) - Rejected: no include keyword present
+2026-07-15 13:25:54,963 [INFO] pipeline_runner: Skipping Artificial Intelligence Engineer at GPTZero - Rejected: no include keyword present
+2026-07-15 13:25:54,964 [INFO] pipeline_runner: Skipping Artificial Intelligence Engineer at Experis UK - Rejected: no include keyword present
+2026-07-15 13:25:54,964 [INFO] pipeline_runner: Skipping Execution Engineer at Greenvolt Group - Rejected: no include keyword present
+2026-07-15 13:25:54,964 [INFO] pipeline_runner: Skipping Ingénieur matériaux spécialiste des polymères F/H at MCG ENGINEERING - Rejected: no include keyword present
+2026-07-15 13:25:54,964 [INFO] pipeline_runner: Skipping EMEA Engineering Graduate Program (m/f/d) at Avnet - Rejected: no include keyword present
+2026-07-15 13:25:54,964 [INFO] pipeline_runner: Skipping INTERNSHIP - STRESS ENGINEER at FLYING WHALES - Rejected: no include keyword present
+2026-07-15 13:25:54,964 [INFO] pipeline_runner: Skipping Engineer Officer - Aerosystems at targetjobs UK - Rejected: no include keyword present
+2026-07-15 13:25:54,964 [INFO] pipeline_runner: Skipping Engineer at Hoza Logistic solutions - Rejected: no include keyword present
+2026-07-15 13:25:54,964 [INFO] pipeline_runner: Skipping Senior Aerothermal Engineer at Destinus - Rejected: no include keyword present
+2026-07-15 13:25:54,964 [INFO] pipeline_runner: Skipping Engineer W at Van Dijnsen Installatiewerken B.V. en Van Dijnsen Beveiligingen B.V. - Rejected: no include keyword present
+2026-07-15 13:25:54,964 [INFO] pipeline_runner: Skipping PLC Engineer at Looper Engineering - Rejected: no include keyword present
+2026-07-15 13:25:54,964 [INFO] pipeline_runner: Skipping Engineer W at Looper Engineering - Rejected: no include keyword present
+2026-07-15 13:25:54,964 [INFO] pipeline_runner: Skipping Engineer at SARIS Aanhangers B.V. - Rejected: no include keyword present
+2026-07-15 13:25:54,964 [INFO] pipeline_runner: Skipping Engineer (E) (f/m/d) at Uniper - Rejected: no include keyword present
+2026-07-15 13:25:54,964 [INFO] pipeline_runner: Skipping Outfit Engineer at NEPTUNE MARINE INSPECTIONS - Rejected: no include keyword present
+2026-07-15 13:25:54,965 [INFO] pipeline_runner: Skipping CQV & CSV Engineering Opportunities – the Netherlands at KPC International - Rejected: no include keyword present
+2026-07-15 13:25:54,965 [INFO] pipeline_runner: Skipping Engineer at Hyatt Regency - Rejected: no include keyword present
+2026-07-15 13:25:54,965 [INFO] pipeline_runner: Skipping Radiation Engineer at Thales - Rejected: no include keyword present
+2026-07-15 13:25:54,965 [INFO] pipeline_runner: Skipping IVVQ Engineer at Thales - Rejected: no include keyword present
+2026-07-15 13:25:54,965 [INFO] pipeline_runner: Skipping CSV Engineer at QCS Staffing - Rejected: no include keyword present
+2026-07-15 13:25:54,965 [INFO] pipeline_runner: Skipping Ingénieur Stabilité at Extia Ingénierie - Rejected: no include keyword present
+2026-07-15 13:25:54,965 [INFO] pipeline_runner: Skipping Truck Customization Engineer at The Adecco Group - Rejected: no include keyword present
+2026-07-15 13:25:54,965 [INFO] pipeline_runner: Skipping OT Engineer (H/F) at AWAKE Group x INNOVATEAM - Rejected: no include keyword present
+2026-07-15 13:25:54,965 [INFO] pipeline_runner: Skipping Truck Adaptation Engineer at Hays - Rejected: no include keyword present
+2026-07-15 13:25:54,965 [INFO] pipeline_runner: Skipping Ingénieur stabilité at E-nova - Rejected: no include keyword present
+2026-07-15 13:25:54,965 [INFO] pipeline_runner: Skipping Ingénieur usinage at Business and Engineering Solutions (BES) - Rejected: no include keyword present
+2026-07-15 13:25:54,966 [INFO] pipeline_runner: Skipping Betriebs-/Projektingenieur Qualifizierung im Bereich Pharma Engineering Solida Betriebs-/Projektingenieur Qualifizierung im Bereich Pharma Engineering Solida (m/w/d) - 885689/1 at Hays - Rejected: no include keyword present
+2026-07-15 13:25:54,966 [INFO] pipeline_runner: Skipping Member of Engineering (Agent Sandboxes) at Jobgether - Rejected: no include keyword present
+2026-07-15 13:25:54,966 [INFO] pipeline_runner: Skipping CSV Engineer at GXP CONSULTING Switzerland - Rejected: no include keyword present
+2026-07-15 13:25:54,966 [INFO] pipeline_runner: Skipping Ingénieur(e) Ordonnancement Control-M at WIT PARTNERS SA - Rejected: no include keyword present
+2026-07-15 13:25:54,966 [INFO] pipeline_runner: Skipping Ingénieur·e de projets en production thermique at SIG - Rejected: no include keyword present
+2026-07-15 13:25:54,966 [INFO] pipeline_runner: Skipping Rust Engineer (80%-100%) – Zurich at Code Compass 🧭 - Rejected: no include keyword present
+2026-07-15 13:25:54,966 [INFO] pipeline_runner: Skipping Ingénieur-e amélioration continue (H/FD) at Nestlé Nespresso SA - Rejected: no include keyword present
+2026-07-15 13:25:54,968 [INFO] pipeline_runner: Skipping Ingénieur LLMops at TerX - Rejected: no include keyword present
+2026-07-15 13:25:54,968 [INFO] pipeline_runner: Skipping .NET Software Engineer (m/f/d) - Berlin at Code Compass 🧭 - Rejected: no include keyword present
+2026-07-15 13:25:54,969 [INFO] pipeline_runner: Skipping Senior Solution Architect (Germany) at Veeam Software - Rejected: no include keyword present
+2026-07-15 13:25:54,969 [INFO] pipeline_runner: Skipping Senior Solution Architect (Germany) at Veeam Software - Rejected: no include keyword present
+2026-07-15 13:25:54,970 [INFO] pipeline_runner: Skipping Ingenieur DevOps / Cloud / Platform Engineering at DXC Technology Morocco - Rejected: no include keyword present
+2026-07-15 13:25:54,970 [INFO] pipeline_runner: Skipping Devops Engineer at INTELCIA - Rejected: no include keyword present
+2026-07-15 13:25:54,970 [INFO] pipeline_runner: Skipping Azure DevOps Engineer - Cegid HR at matys - Rejected: no include keyword present
+2026-07-15 13:25:54,971 [INFO] pipeline_runner: Skipping Scientist Innovator Integrated Mission Management at TNO - Rejected: no include keyword present
+2026-07-15 13:25:54,971 [INFO] pipeline_runner: Skipping Computer Vision Expert      . at Nedap - Rejected: no include keyword present
+2026-07-15 13:25:54,971 [INFO] pipeline_runner: Skipping Computer Vision Expert at Nedap - Rejected: no include keyword present
+2026-07-15 13:25:54,972 [INFO] pipeline_runner: Skipping Senior Principal Applied Scientist (f/m/d) at Siemens - Rejected: no include keyword present
+2026-07-15 13:25:54,972 [INFO] pipeline_runner: Skipping Senior Principal Applied Scientist (f/m/d) at Siemens - Rejected: no include keyword present
+2026-07-15 13:25:54,972 [INFO] pipeline_runner: Skipping 大模型算法研究员 at Xiaomi Technology - Rejected: no include keyword present
+2026-07-15 13:25:54,973 [INFO] pipeline_runner: Skipping Member of Technical Staff, Agent Code at Cohere - Rejected: no include keyword present
+2026-07-15 13:25:54,974 [INFO] pipeline_runner: Skipping COMMUNICATION AND STORYTELLING LEAD at STATION F - Rejected: no include keyword present
+2026-07-15 13:25:54,974 [INFO] pipeline_runner: Skipping SENIOR BACKEND ENGINEER at STATION F - Rejected: no include keyword present
+2026-07-15 13:25:54,974 [INFO] pipeline_runner: Skipping Communication and Storytelling lead at cobl - Rejected: no include keyword present
+2026-07-15 13:25:54,974 [INFO] pipeline_runner: Skipping PR Director, EMEA at Cohere - Rejected: no include keyword present
+2026-07-15 13:25:54,974 [INFO] pipeline_runner: Skipping Field Marketing Specialist at Snowflake - Rejected: no include keyword present
+2026-07-15 13:25:54,974 [INFO] pipeline_runner: Skipping Working Student – Marketing at Rewire - Rejected: no include keyword present
+2026-07-15 13:25:54,975 [INFO] pipeline_runner: Skipping Startup Founder - Batch 0 at Builders - Rejected: no include keyword present
+2026-07-15 13:25:54,975 [INFO] pipeline_runner: Skipping Privacy Officer & Legal Counsel at ScreenPoint Medical - Rejected: no include keyword present
+2026-07-15 13:25:54,975 [INFO] pipeline_runner: Skipping Founders Associate - Special Projects at opus - Rejected: no include keyword present
+2026-07-15 13:25:54,975 [INFO] pipeline_runner: Skipping Chief of Staff / Founders Associate at opus - Rejected: no include keyword present
+2026-07-15 13:25:54,975 [INFO] pipeline_runner: Skipping Visiting Analyst (January 2026 and onwards) at Merantix Capital - Rejected: no include keyword present
+2026-07-15 13:25:54,975 [INFO] pipeline_runner: Skipping Founders Associate - CTO Office (all genders) at Lio (formerly askLio) - Rejected: no include keyword present
+2026-07-15 13:25:54,975 [INFO] pipeline_runner: Skipping Application Scientist (Molecular Modelling & Simulation) at Basis Set - Rejected: no include keyword present
+2026-07-15 13:25:54,975 [INFO] pipeline_runner: Skipping Technical Project Manager - Production at Helsing - Rejected: no include keyword present
+2026-07-15 13:25:54,976 [INFO] pipeline_runner: Skipping Forward Deployed Engineer (Ops) at Taktile - Rejected: no include keyword present
+2026-07-15 13:25:54,976 [INFO] pipeline_runner: Skipping Learning & Development Lead at Conveo - Rejected: no include keyword present
+2026-07-15 13:25:54,976 [INFO] pipeline_runner: Skipping PR Director, EMEA at Cohere - Rejected: no include keyword present
+2026-07-15 13:25:54,977 [INFO] pipeline_runner: Skipping Founding Engineer at TechShack - Rejected: no include keyword present
+2026-07-15 13:25:54,977 [INFO] pipeline_runner: Skipping Visual Designer at Stravito - Rejected: no include keyword present
+2026-07-15 13:25:54,977 [INFO] pipeline_runner: Skipping Tech Lead at Verity - Rejected: no include keyword present
+2026-07-15 13:25:55,000 [INFO] pipeline_runner: Database saved. Total tracked jobs: 807
